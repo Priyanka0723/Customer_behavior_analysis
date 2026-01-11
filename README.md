@@ -17,8 +17,6 @@ It covers **data cleaning, exploratory data analysis (EDA), SQL querying, dashbo
   * Missing values and inconsistencies
   * Data suitable for analysis and visualization
 
-*(Dataset details can be updated based on the actual project.)*
-
 ---
 
 ## 🛠 Tools & Technologies
