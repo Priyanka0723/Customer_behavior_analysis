@@ -84,7 +84,3 @@ This is a complete end-to-end Data Analytics project — from raw data to powerf
 - Insight generation for decision-making  
 
 
-
----
-
-⭐ If you found this project interesting, don’t forget to star the repository!
